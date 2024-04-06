@@ -1,0 +1,10 @@
+vehicle_type,vehicle_model,emissions_per_hour_kg,speed_km/hr
+Car,Toyota Corolla,10,50
+Car,Honda Accord,3.3,40
+Car,Ford Explorer,4,47
+Car,Ford F-150,4.5,60
+Car,Toyota Prius,1.8,50
+Public Bus,Public Bus,2,30
+MRT,MRT,1,50
+Bicycle,Bicycle,0,15
+Walking,Walking,0,5
